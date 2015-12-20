@@ -1,0 +1,21 @@
+{
+  "name": "LeFo",
+  "description": "Ever feel lost in traffic ? Lost sight of your friend riding ahead of you ? We got you covered! Hook your friends upon Lefo and be connected always. Track your friend's location, share your own location, send instant alert messages in real time. The only app in the market which can navigate with a constantly changing target destination like your friend following you to your home. Designed to help drivers/riders to travel to an unknown location known by your co travellers",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Britto Saji",
+    "Basil Arackal",
+    "Livin Mathew"
+  ],
+  "license": "MIT",
+  "homepage": "lmntrx.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
