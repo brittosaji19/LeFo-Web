@@ -13,6 +13,13 @@
   "homepage": "lmntrx.com",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#1.2.0"
+    "polymer": "Polymer/polymer#1.2.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.7",
+    "google-apis": "GoogleWebComponents/google-apis#1.0.0",
+    "google-map": "GoogleWebComponents/google-map#1.0.0",
+    "google-signin": "GoogleWebComponents/google-signin#1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^1.0.0"
   }
 }
