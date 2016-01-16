@@ -22,49 +22,18 @@
 </head>
 <body>
 <paper-material elevation="5">
-<p id="title">LeFo</p>
-
+Lefo
 </paper-material>
-<div class="container-fluid">
-<div class="row">
-	<div class="col-sm-6 container-fluid">
-		<p id="leaddef">blah blah blah <br>some bullshit for the leader <br>blah blah blah</p>
-	</div>
-	<div class="col-sm-6"><img src='https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=Example' class="img-thumbnail leadqr" ></img></div>
-	</div>
-</div>
 <style>
 paper-material{
 background-color:orange;
 height:200px;
 margin-left:0px;
 margin-right:0px;
-margin-top: 0px;
-padding: 50px;
 }
 body{
 	margin:0px;
 	padding:0px;
-	background-color: #ffffe5;
-}
-#title{
-	vertical-align: middle;
-	position: relative;
-	font-size: 4em;
-
-}
-.leadqr{
-	    border: 5px solid #FFA500;
-	    margin:30px;
-}
-#leaddef{
-	font-size: 3em;
-	color: #737373;
-	position: relative;
-	margin:30px;
-	vertical-align: text-middle;
-	height:100%;
-
 }
 </style>
 </body>
